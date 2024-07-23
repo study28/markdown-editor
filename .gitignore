@@ -13,6 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Nuxt.js build / generate output
+.nuxt
+#dist
+
 # Mono auto generated files
 mono_crash.*
 
